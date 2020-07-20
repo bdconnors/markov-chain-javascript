@@ -1,0 +1,26 @@
+{
+  "name": "markov-chain-javascript",
+  "version": "1.0.0",
+  "description": "generates a string based on supplied text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdconnors/markov-chain-javascript.git"
+  },
+  "keywords": [
+    "markov",
+    "chain",
+    "markov",
+    "chain"
+  ],
+  "author": "Brandon Connors <bdc5435@rit.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdconnors/markov-chain-javascript/issues"
+  },
+  "homepage": "https://github.com/bdconnors/markov-chain-javascript#readme",
+  "dependencies": {}
+}
